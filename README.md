@@ -1,2 +1,2 @@
-# cinema
-Учебный проект
+# cinema-project
+Учебный проект Glo Academy
